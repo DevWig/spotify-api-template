@@ -1,1 +1,1 @@
-# spotify-api-template
+# SPOTIFY API REACT APPLICATION TEMPLATE
