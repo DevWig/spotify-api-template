@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spotify API w/ React Application Template
 
 This application was created as a starting point for developers wanting to use the Spotify API for a personal project or want to become more familiar with using APIs in general.
@@ -10,4 +10,4 @@ To use this application:
   3. From the same terminal, in the same directory, run 'npm start'
   4. Have tons of fun!
 
-If you would like a more detailed explanation of what's going on here, checkout the accompanying blog post at <coming soon>.
+If you would like a more detailed explanation of what's going on here, checkout the accompanying blog post at https://devdish.devwig.com/how-to-use-the-spotify-api-with-react.
